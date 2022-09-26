@@ -1,0 +1,1 @@
+Nesta aula foi apresentado sobre tags não conformes, ou "fora de uso". Algumas apresentam características de "design" que atualmente 24/09/2022 precisam ser tratadas em CSS e/ou JavaScript e não em HTML5, como "bgcolor", "marquee" e outras.
